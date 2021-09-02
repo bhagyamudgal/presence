@@ -1,0 +1,22 @@
+.banner-home {
+  height: 350px;
+  width: 100%;
+}
+@media (max-width: 576px) {
+  .home-btn-group {
+    text-align: center;
+  }
+  .home-btn-group button {
+    width: 85%;
+  }
+  .home-main {
+    text-align: center;
+    padding: 2px;
+  }
+  .registrationform-main h1 {
+    text-align: center;
+  }
+  #registration-form-submit-btn {
+    width: 100%;
+  }
+}
